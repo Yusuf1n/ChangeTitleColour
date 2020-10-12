@@ -1,0 +1,84 @@
+.body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+}
+
+#heading {
+    text-align: center;
+}
+
+#text {
+    text-align: center;
+}
+
+#btn1 {
+    background-color: blue;
+    border-radius: 15px;
+    padding: 10px; 
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    left: 600px;
+    top: 150px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#btn1:hover {
+    background-color:white;
+    border-style: solid;
+    border-color: blue;
+}
+
+#btn2 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: red;
+    border-radius: 15px;
+    padding: 10px; 
+    width: 100px;
+    height: 50px; 
+    position: absolute;
+    left: 730px;
+    top: 150px
+}
+
+#btn2:hover {
+    background-color:white;
+    border-style: solid;
+    border-color: red;
+}
+
+#btn3 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: green;
+    border-radius: 15px;
+    padding: 10px; 
+    width: 100px;
+    height: 50px; 
+    position: absolute;
+    left: 860px;
+    top: 150px
+}
+
+#btn3:hover {
+    background-color:white;
+    border-style: solid;
+    border-color: green;
+}
+
+#btn4 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: yellow;
+    border-radius: 15px;
+    padding: 10px; 
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    left: 990px;
+    top: 150px
+}
+
+#btn4:hover {
+    background-color:white;
+    border-style: solid;
+    border-color: yellow;
+}
